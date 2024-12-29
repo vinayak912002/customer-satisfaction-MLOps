@@ -1,0 +1,6 @@
+artifact_location: file:///home/vinayak/repos/MLOps/customer-satisfaction-mlops/mlruns/243853469362438343
+creation_time: 1733982575352
+experiment_id: '243853469362438343'
+last_update_time: 1733982575352
+lifecycle_stage: active
+name: continuous_deployment_pipeline

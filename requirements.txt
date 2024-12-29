@@ -1,0 +1,9 @@
+catboost==1.2.2
+joblib==1.2.0
+lightgbm==3.3.5
+optuna==3.3.0
+streamlit==1.22.0
+xgboost==1.7.5
+markupsafe==2.1.2
+zenml==0.70.0
+streamlit==1.22.0
